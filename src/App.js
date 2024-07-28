@@ -8,6 +8,7 @@ import TV from './Componets/TV/TV';
 import NotFound from './Componets/NotFound/NotFound';
 const router= createBrowserRouter([
 {path:'',element:<Layout/>,children:[
+{path:'Movies/',element:<Home/>},
 {path:'',element:<Home/>},
 {path:'allmovies',element:<Home/>},
 {path:'trendingmovies',element:<About/>},
