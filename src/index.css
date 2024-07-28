@@ -11,3 +11,39 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.navbar-brand img {
+  width: 70px !important;
+  height: 70px !important;
+  border-radius: 50% !important;
+}
+.itemcard  .itemoverview{
+  background-color: rgba(13, 37, 63,0.8) !important;
+  color:white;
+  position: absolute;
+  top:100%;
+  left: 0;
+  bottom: 0;
+  right: 100%;
+  width: 100%;
+  transition: all 1s;
+}
+.itemcard:hover .itemoverview{
+  top: 0;
+} 
+.vote_average{
+  font-weight: bolder !important;
+}
+@media screen and (max-width:800px) {
+.navbar-brand img {
+  width: 40px !important;
+  height: 40px !important;
+  border-radius: 50% !important;
+} 
+.navbar-brand span {
+  font-size: 20px !important;
+}
+.itemcard .rate {
+  display: block !important;
+}
+}
