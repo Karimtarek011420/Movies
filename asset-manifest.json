@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Movies/static/css/main.c1dd11bb.css",
+    "main.js": "/Movies/static/js/main.0aef4aa4.js",
+    "static/js/453.7bf11acd.chunk.js": "/Movies/static/js/453.7bf11acd.chunk.js",
+    "static/media/fa-solid-900.ttf": "/Movies/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/Movies/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/Movies/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/Movies/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/Movies/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/Movies/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Movies/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Movies/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/Movies/index.html",
+    "main.c1dd11bb.css.map": "/Movies/static/css/main.c1dd11bb.css.map",
+    "main.0aef4aa4.js.map": "/Movies/static/js/main.0aef4aa4.js.map",
+    "453.7bf11acd.chunk.js.map": "/Movies/static/js/453.7bf11acd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1dd11bb.css",
+    "static/js/main.0aef4aa4.js"
+  ]
+}
